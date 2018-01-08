@@ -12,4 +12,4 @@ jhipster:
     security:
         authentication:
             jwt:
-                secret: my-secret-token-to-change-in-production
+                secret: 81B5AB1E9300F27B6ED2664A5D3CB90E0821F36919231246E6A2EDFE509DEF56
